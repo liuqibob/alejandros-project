@@ -1,4 +1,6 @@
 
+var width = 10
 setInterval(function() {
-  get("#logo").css({width:"500px"})
+  width = width + 10
+  get("#logo").css({width:width})
 }, 1000)
