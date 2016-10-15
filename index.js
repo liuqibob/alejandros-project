@@ -1,1 +1,4 @@
-get("#logo").css({width:"500px"})
+
+setInterval(function() {
+  get("#logo").css({width:"500px"})
+}, 1000)
