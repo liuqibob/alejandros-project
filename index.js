@@ -1,4 +1,4 @@
-YESSS WE CA
+YESSS WE CAN HEAR YOU!
 
 var width = 10
 setInterval(function() {
